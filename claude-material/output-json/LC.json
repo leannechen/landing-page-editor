@@ -1,0 +1,229 @@
+{
+  "title": "Data Analytics Professional Certificate",
+  "slug": "data-analytics",
+  "description": "Build job-ready data analytics skills from the ground up, with no prior data experience required. Learn to augment core statistical techniques with cutting-edge AI-assisted workflows. Gain the skills to extract meaningful insights from real-world datasets, make data-driven decisions, and communicate results effectively. Prepare your portfolio and interview skills for a role in data analytics!",
+  "releasedAt": "2025-06-11T04:18:00",
+  "lastEditAt": "2025-07-28T20:12:07",
+  "previewImage": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/10/Sign_Up_Button_DeepLearning_Data_Analytics_Banner_2070x1080_V2.png",
+  "coverImage": "",
+  "curriculumType": "specialization",
+  "levels": ["beginner"],
+  "topics": [
+    {"text": "Data Analytics"},
+    {"text": "Statistics"},
+    {"text": "Python Programming"},
+    {"text": "Data Visualization"},
+    {"text": "SQL"}
+  ],
+  "partnerships": [],
+  "skills": [
+    {"text": "LLMs (Large Language Models)"},
+    {"text": "Data Analytics Fundamentals"},
+    {"text": "Spreadsheets (Google Sheets)"},
+    {"text": "Descriptive Statistics"},
+    {"text": "Data Visualization"},
+    {"text": "AI for Analytics"},
+    {"text": "Applied Statistics and Probability"},
+    {"text": "Inferential Statistics"},
+    {"text": "Python Programming for Data Analysis"},
+    {"text": "SQL for Data Manipulation"},
+    {"text": "Data Cleaning and Preprocessing"},
+    {"text": "Time Series Analysis"},
+    {"text": "Correlation Analysis"},
+    {"text": "Tableau Dashboard Creation"},
+    {"text": "Data Segmentation"},
+    {"text": "Data Storytelling"}
+  ],
+  "enrollButton": {
+    "label": "Enroll Now",
+    "enrollUrl": "https://www.coursera.org/professional-certificates/data-analytics?utm_campaign=WebsiteCoursesDAG&utm_medium=institutions&utm_source=deeplearning-ai",
+    "enrollHubspotFormId": ""
+  },
+  "og": {
+    "title": "Data Analytics Professional Certificate",
+    "description": "Build job-ready data analytics skills from the ground up, with no prior data experience required. Learn to augment core statistical techniques with cutting-edge AI-assisted workflows.",
+    "image": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/10/Sign_Up_Button_DeepLearning_Data_Analytics_Banner_2070x1080_V2.png",
+    "imageAlt": "Data Analytics Professional Certificate",
+    "imageType": "image/png",
+    "type": "website",
+    "siteName": "DeepLearning.AI"
+  },
+  "hero": {
+    "titleColor": "#ffffff",
+    "backgroundCSS": "linear-gradient(318deg, rgba(25,25,182,1) 0%, rgba(38,38,102,1) 100%)",
+    "illustrationImage": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/10/Your-paragraph-text.png",
+    "backgroundImage": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/10/WordPress-backgrounds.png"
+  },
+  "video": {
+    "youtubeVideoId": "xTQd3s2P8lo",
+    "thumbnail": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2025/03/Captura-de-pantalla-2025-04-18-114421.png"
+  },
+  "pageLayout": [
+    {
+      "component": "feature_list",
+      "key": "feature-list-1",
+      "title": "Build foundational knowledge in data analysis",
+      "description": "Newly rebuilt and expanded into 3 courses, the updated Specialization teaches foundational AI concepts through an intuitive visual approach, before introducing the code needed to implement the algorithms and the underlying math.",
+      "itemStyle": "card",
+      "features": [
+        {
+          "title": "I'm a complete beginner",
+          "description": "* Doesn't require prior math knowledge or a rigorous coding background\n* Takes the core curriculum — vetted by millions of learners over the years — and makes it more approachable\n* Each lesson begins with a visual representation of machine learning concepts, followed by the code, followed by optional videos explaining the underlying math"
+        }
+      ]
+    },
+    {
+      "component": "text_block",
+      "key": "text-block-1",
+      "title": "Why Enroll?",
+      "body": "Data-informed decision-making is now an essential skill for everyone, from everyday consumer choices to business decisions at all levels. As reliance on data grows, so does the need for professionals who can analyze and interpret it effectively.\n\nThe **Data Analytics Professional Certificate**, led by industry leader Sean Barnes, equips you with the skills to manage the entire data lifecycle, from defining problems to delivering insights. With this certificate, you'll be prepared to pursue an entry-level role in data analytics or strengthen your current role with a solid foundation in data analysis.\n\nThe skills you'll gain are in high demand, and with **data science roles projected to grow 36% from 2023 to 2033** according to the U.S. Bureau of Labor Statistics, developing these skills puts you at the forefront of a data-centric world.\n\nYou'll begin by learning the foundations of analysis and visualization, then move on to statistical techniques that support evidence-based decision-making. Next, you'll develop Python skills to automate workflows and analyze data at scale (no prior coding experience required!). Then, you'll work with real-world data to extract information from websites, APIs, and databases, and clean data with Python and SQL to prepare it for analysis.\n\nFinally, you'll learn to present your analysis in ways that support real decisions through clear writing, compelling visualizations, and interactive dashboards. You'll also prepare for the job search with practical guidance on resumes, portfolios, and interviews.\n\nUnique to this program is its integration of AI tools into the analytics workflow. You'll learn to use large language models as a thought partner, accelerating tasks like simulation modeling, formula debugging, and data visualization. Each of the course examples comes from real-world use cases, building practical and immediately useful skills.\n\nWhether you're a software engineer working with data pipelines, a marketer or business analyst extracting insights, or building a career in data analysis, you'll gain the foundation to excel in the data economy. Blending core statistical methods with AI-assisted workflows, this program is perfect for beginners entering the field as well as experienced practitioners looking to expand their analytical toolkit."
+    },
+    {
+      "component": "text_block",
+      "key": "text-block-2",
+      "title": "Who this course is for",
+      "body": "- **Aspiring Data Analysts**: Build the essential skills needed to land roles like Data Analyst, Business Intelligence Analyst, Operations Analyst, or Data Specialist positions\n- **Software Engineers**: Enhance your technical toolkit with data analysis capabilities to build more insightful applications or transition to data-focused engineering roles\n- **Marketing Professionals**: Add data-driven decision making that transforms how you develop campaigns and measure performance\n- **Business Professionals**: Develop quantitative expertise to leverage analytics in your current role, whether in product, operations, or management\n- **Career Changers**: Create a portfolio of real-world data projects like forest fire prevention, customer retention, and product selection analyses\n\n**Everyone Curious About How to Make Use of Data**: Learn to make sense of data and drive evidence-based decisions in both professional and personal contexts\n\nDevelop job-ready skills and prepare for a career in data analytics – no prior experience required."
+    },
+    {
+      "component": "testimonials",
+      "key": "testimonials-1",
+      "title": "Learner reviews from other DeepLearning.AI courses",
+      "testimonials": [
+        {
+          "name": "Selami A.",
+          "jobTitle": "Software QA Manager",
+          "content": "What I loved about the \"AI for Everyone\" course was the comprehensive coverage of essential AI topics, guided by the expertise of Andrew Ng. The course provided a clear roadmap for initiating and managing AI projects, from project selection to implementation. It also offered insights into building AI teams and introduced the technical tools necessary for AI success"
+        },
+        {
+          "name": "Chris C.",
+          "jobTitle": "DeepLearning.AI Learner",
+          "content": "Simple enough to make it easy to understand in spite of being a complex topic, inspiring speaker. Time well spent, and a good fit with \"lifelong learning\" approach."
+        },
+        {
+          "name": "Adeel B.",
+          "jobTitle": "DeepLearning.AI Learner",
+          "content": "What stood out to me about this course was the clarity and simplicity with which complex AI concepts were explained. The real-life examples and case studies helped me grasp the practical implications of AI in different sectors. The interactive nature of the course made learning engaging and enjoyable."
+        },
+        {
+          "name": "Krystal L.",
+          "jobTitle": "DeepLearning.AI Learner",
+          "content": "I am an educator and looking to incorporate AI into my career and help my colleagues to do the same. The course did a great job explaining AI concepts to people like myself who are just learning about any of this for the first time."
+        },
+        {
+          "name": "John S.",
+          "jobTitle": "DeepLearning.AI Learner",
+          "content": "I took this course purely out of curiosity. After becoming aware of ChatGPT and Midjourney and then taking a short course on engineering the prompts to get the desired result, I became more intrigued with the topic of AI. I found this most helpful with regards to getting an idea about what AI actually is as opposed to what Hollywood conditioned me to believe it might be."
+        },
+        {
+          "name": "Muhammad S.",
+          "jobTitle": "DeepLearning.AI Learner",
+          "content": "Loved the content. It brought simplicity to the complex topic of AI, separated signal from noise, presented a great flow and covered the most relevant topics. Andrew's knowledge and passion about the subject of AI was amazing. It was inspiring to listen to him, even via recorded videos. Its really great to be in this era of technology, as it makes it possible to get access to the wealth of knowledge so easily."
+        }
+      ]
+    },
+    {
+      "component": "faqs",
+      "key": "faqs-1",
+      "faqs": [
+        {
+          "question": "How long is the course?",
+          "answer": "The course is designed to be completed in about a month, with an estimated commitment of 5 hours per week."
+        },
+        {
+          "question": "Can I take this course at my own pace?",
+          "answer": "Yes, the course is designed to be self-paced."
+        },
+        {
+          "question": "What kind of support is available?",
+          "answer": "Access to discussion forums, detailed documentation, and resources to support your learning."
+        },
+        {
+          "question": "Is there a certificate upon completion?",
+          "answer": "You will receive a certificate at the end of each course if you pay or receive financial aid for the courses and complete the assessments. There is a limit of 180 days of certificate eligibility, after which you must re-purchase the course to obtain a certificate. If you audit the course for free, you will not receive a certificate. If you complete all 5 courses in the Professional Certificate, you will also receive an additional certificate showing that you completed the entire Professional Certificate."
+        },
+        {
+          "question": "I have questions about my subscription of this Professional Certificate, whom can I ask?",
+          "answer": "Please use the [Coursera Learner Help Center](https://www.coursera.support/s/learner-help-center?language=en_US) for questions about your subscription."
+        },
+        {
+          "question": "How much does this Professional Certificate cost?",
+          "answer": "A Coursera subscription costs $49 / month."
+        },
+        {
+          "question": "Can I apply for financial aid?",
+          "answer": "Yes, Coursera provides financial aid to learners who cannot afford the cost of a subscription."
+        },
+        {
+          "question": "Can I audit the Professional Certificate?",
+          "answer": "You can audit the courses for free. Note that you will not have access to the assessments and you will not receive a certificate at the end of the course if you choose to audit it for free instead of purchasing the subscription."
+        }
+      ]
+    },
+    {
+      "component": "instructors",
+      "key": "instructors-1",
+      "instructors": [
+        {
+          "name": "Sean Barnes",
+          "jobTitle": "Manager, Title & Launch Management Data Science and Engineering Manager at Netflix",
+          "description": "Instructor Sean Barnes is a Data Science & Engineering Leader at Netflix. His research interests included infectious disease modeling, healthcare and sports analytics, agent-based and discrete-event simulation, machine learning, and data visualization.",
+          "socialLinks": {
+            "linkedin": "https://www.linkedin.com/in/sean-barnes-4436158/",
+            "twitter": "https://x.com/just_sean2?lang=en",
+            "website": ""
+          },
+          "featuredImage": "https://home-wordpress.deeplearning.ai/wp-content/uploads/2024/10/Instructors-profile-picture-35.png"
+        }
+      ]
+    },
+    {
+      "component": "promo_banner",
+      "key": "promo-banner-1",
+      "title": "Course access is free for a limited time during the DeepLearning.AI learning platform beta!",
+      "button": {
+        "url": "https://www.coursera.org/professional-certificates/data-analytics?utm_campaign=WebsiteCoursesDAG&utm_medium=institutions&utm_source=deeplearning-ai",
+        "hubspotFormId": "",
+        "label": "Enroll Now",
+        "variant": "white"
+      },
+      "backgroundCSS": "",
+      "illustrationImage": ""
+    },
+    {
+      "component": "newsletter",
+      "key": "newsletter-1",
+      "title": "Stay up to date with AI news!",
+      "description": "Keep learning with updates on curated news, courses, and events, as well as Andrew's thoughts from DeepLearning.AI!",
+      "hubspotFormId": ""
+    }
+  ],
+  "syllabus": {
+    "courses": [
+      {
+        "title": "Data Analytics Foundations",
+        "slug": "data-analytics-foundations",
+        "content": "## Module 1: Data and the Data Analyst Role\n- Define data and its common representations, and differentiate between structured vs. unstructured data and variable types (categorical, discrete, continuous).\n- List common data file formats (txt, CSV, JSON, etc.) and explore data roles (analyst, engineer, scientist) and their business impact.\n- Identify career opportunities and the components of the data ecosystem. Use large language models (LLMs) for stakeholder analysis and evaluate their strengths and weaknesses.\n\n## Module 2: Using Spreadsheets for Data Analytics\n- Describe spreadsheet use cases in business and life, introducing Google Sheets and alternatives.\n- Perform basic spreadsheet tasks (create, save, share, organize data) and use tools to sort and filter data.\n- Compare different file types and data types (date, numeric, text) and connect them to structured/unstructured data.\n\n## Module 3: Data Visualization\n- Understand the role of data storytelling and how visualizations (bar charts, scatter plots) aid in analysis.\n- Create and interpret bar and line charts in Google Sheets and select the best visualization for different types of analysis.\n- Construct data stories using analytics best practices.\n\n## Module 4: The Data Analytics Lifecycle\n- Define stages in the data analysis lifecycle (problem definition, data collection, preprocessing, analysis, interpretation, evaluation).\n- Gather business context and stakeholder requirements, using tools like the Rumsfeld Matrix to refine questions.\n- Explain how domain knowledge affects the analysis process and helps identify the right data and analysis techniques."
+      },
+      {
+        "title": "Applied Statistics for Data Analytics",
+        "slug": "applied-statistics-for-data-analytics",
+        "content": "## Module 1: Foundational Statistical Techniques\n- Define population, sample, and sampling methods, identifying best practices and potential biases.\n- Use GenAI to brainstorm sampling methods and debug spreadsheet errors.\n- Analyze data using measures of central tendency, variability, and skewness, with histograms and box plots for summarization.\n- Perform segmentation with group-by analysis, calculating measures like frequencies and percent changes, and visualizing results with bar charts.\n\n## Module 2: Probability and Simulation\n- Explain the role of probability in quantifying uncertainty and apply probability rules (multiplication, addition, complement).\n- Distinguish between independent and non-independent events and compare discrete vs. continuous probability distributions.\n- Calculate z-scores using normal distribution and simulate random variates with uniform and normal distributions for business decisions.\n\n## Module 3: Confidence Intervals\n- Define estimation and its link to sampling and descriptive statistics.\n- Calculate and interpret confidence intervals to estimate population parameters, such as means and proportions.\n- Use LLMs to assist in selecting, conducting, and analyzing inferential statistical techniques.\n\n## Module 4: Hypothesis Testing\n- Explain the importance of hypothesis testing and conduct single-variable tests including t-tests and z-tests\n- Control Type I and II error rates using statistical mechanisms.\n- Describe the many types of hypothesis testing available to data analysts and their relevant applications.\n- Use LLMs to assist in selecting, conducting, and analyzing inferential statistical techniques."
+      },
+      {
+        "title": "Python for Data Analytics",
+        "slug": "data-analysis-at-scale-and-speed-with-python",
+        "content": "## Module 1: Getting started with Python\n- Explain what programming languages are used for\n- Setting up and navigating a Python notebook environment\n- Create variables of different data types and implement lists and tuples\n- Write code with proper Python indentation and use conditional statements\n- Write for and while loops and custom functions using def\n\n## Module 2: Data structures and descriptive statistics\n- Import Python packages and create DataFrames using pandas\n- Read CSV files and perform initial data exploration\n- Calculate basic descriptive statistics using pandas methods\n- Create basic visualizations directly from pandas\n- Segment data using groupby() and pivot_table()\n\n## Module 3: Visualization\n- Use Pandas to generate visuals directly from DataFrames\n- Use matplotlib to create custom visualizations\n- Employ Seaborn to craft advanced visuals including distribution plots and heat maps\n\n## Module 4: Inferential statistics\n- Construct confidence intervals in Python using SciPy\n- Develop linear regression models and interpret their output\n- Use NumPy's random module to create simulated data\n\n## Module 5: Time series\n- Use DateTime objects to model dates and times in Python\n- Apply descriptive statistics to time series including moving averages\n- Use regression to develop time series forecasting models"
+      },
+      {
+        "title": "Data I/O and Preprocessing with Python and SQL",
+        "slug": "courses-4-5",
+        "content": "## Module 1: Web scraping & text processing\n- Identify different sources of data and describe ETL/ELT processes\n- Use Pandas to scrape structured data from webpages\n- Apply string methods for cleaning and transforming text\n- Use Beautiful Soup to parse HTML and extract relevant elements\n\n## Module 2: APIs\n- Describe what APIs are and how they access data\n- Make API requests and interpret responses\n- Handle paginated API responses and combine results\n- Store and access API keys using environment variables\n\n## Module 3: Databases & SQL\n- Define databases and explain DBMS principles\n- Write basic SQL queries to select and order data\n- Use SQL within Python to access and analyze databases\n\n## Module 4: Preprocessing, validation, and joins with SQL\n- Use SQL to filter data using various conditions\n- Apply conditional logic in SQL using CASE statements\n- Perform data validation using SQL aggregation functions\n- Perform left, inner, and outer joins to combine data"
+      },
+      {
+        "title": "Data Storytelling",
+        "slug": "data-storytelling",
+        "content": "## Module 1: Data storytelling fundamentals\n- Explain why data storytelling is important\n- Craft compelling narrative arcs for data stories\n- Select the best media type for communicating with stakeholders\n\n## Module 2: Creating Charts in Tableau\n- Apply appropriate visualization types for different scenarios\n- Write compelling summaries of results and insights\n- Use consistent color, typography, and layout\n\n## Module 3: Creating dashboards & stories in Tableau\n- Create static and interactive visualizations in Tableau\n- Build dashboards with filters and tooltips\n- Deploy dashboards ensuring optimal performance\n\n## Module 4: The job search\n- Build a strong data analytics portfolio\n- Prepare for interviews and job applications"
+      }
+    ]
+  }
+}
